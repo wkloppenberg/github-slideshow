@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Test text
+Ok, this is epic
 Use the left arrow to go back!
